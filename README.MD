@@ -33,3 +33,12 @@ selena.ruizd@gmail.com
 -p020-numero-suerte
 -p021-distancia-entre-puntos
 -p022-resistencia-equivalente-paralelo 
+
+## Actividad 5
+- p023-verificar-numero
+- p024-verificar-numeros-v2
+- p025-verificar-suma
+- p026-convertir-temperaturas-v2
+- p027-calcular-paga-extra
+- p028-retira-cuenta
+- p029-calculadora-descuentos

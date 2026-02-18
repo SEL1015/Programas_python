@@ -24,7 +24,7 @@ selena.ruizd@gmail.com
 - p13-funcion-matematicas-precios
 - p14-funciones-trigonometricas
 
-## Tarea
+## Tarea 1
 - p015-hipotenusa-triangulo 
 - tercer-angulo
 - p017-convertir-temperatura
@@ -42,3 +42,21 @@ selena.ruizd@gmail.com
 - p027-calcular-paga-extra
 - p028-retira-cuenta
 - p029-calculadora-descuentos
+
+## Actividad 6 
+- p30-verifica-suma
+- p31-ley-newton
+- p032-aceptar-estudiante 
+- p033-aceptar-estudiante-v2
+- p034-tipo-angulo
+- p035-tipo-triangulo
+
+## Trea 2
+- p036-numeros-consecutivos
+- p037-numero-mayor
+- p038-dia-semana
+- p039-numeros-romanos
+- p040-calculo-notas
+- p041-aceptar-estudiante-v2
+- p042-precio-entrada-cine
+- p043-calculadora-anio-bisiesto

@@ -21,7 +21,7 @@ print("ser mujer, ser mayor de 21 años y tener un promedio entre 8 y 9.5. ")
 
 #Declaracion de variables
 nombre=input("Ingresa tu nombre : " )
-sexo=input("Ingresa tu sexo (h/m) : " ).lower()
+sexo=input("Ingresa tu sexo (h/m) : " ).lower()##acepta minusculas 
 
 
 #Evaluar con sentencias if/elif
@@ -45,3 +45,4 @@ else:
             print(f"¡Felicidades, {nombre}! Has sido aceptada. Cumples con la edad y tu promedio de {promedio:.2f} está dentro del rango permitido.")
 print("Fin del programa.")
 
+##Mofique prorgrama 

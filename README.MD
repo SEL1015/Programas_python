@@ -60,3 +60,12 @@ selena.ruizd@gmail.com
 - p041-aceptar-estudiante-v2
 - p042-precio-entrada-cine
 - p043-calculadora-anio-bisiesto
+## Actividad 7 
+- p044-conteo-ascendente
+- p045-conteo-ascendente-v2
+- p046-conteo-descendente
+- p047-conteo-descendente-v2
+- p048-multiplos-continue
+- p049-sumar-consecutivos 
+- p050-conteo-numeros
+- p051-adivina-numero

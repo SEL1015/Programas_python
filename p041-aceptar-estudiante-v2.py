@@ -21,27 +21,27 @@ print("ser mujer, ser mayor de 21 años y tener un promedio entre 8 y 9.5. ")
 
 #Declaracion de variables
 nombre=input("Ingresa tu nombre : " )
-sexo=input("Ingresa tu sexo (h/m) : " )
-edad=int(input("Ingresa tu edad : "))#Input por ingreso de valores enteros 
+sexo=input("Ingresa tu sexo (h/m) : " ).lower()
 
-#Solicitar las calificaciones
-print("Ingresa tus tres calificaciones separadas por un espacio : ")
-cal1,cal2,cal3 = input().split()# .split separa por un espacio lo solicita por espacios si 
-
-#Asignar para determinar el promedio
-cal1,cal2,cal3 = int(cal1),int(cal2),int(cal3) # Convertir a entero los numeros ingresados 
-promedio = (cal1 + cal2 + cal3) / 3
 
 #Evaluar con sentencias if/elif
 if sexo != 'm':
     print(f"Lo sentimos, {nombre}. La universidad solo acepta mujeres.")
-elif edad >= 21:
-    print(f"Lo sentimos, {nombre}. No cumples con la edad requerida (mayores de 21 años).")
-elif promedio < 8:
-    print(f"Lo sentimos, {nombre}. Tu promedio de {promedio:.2f} no alcanza el mínimo requerido de 8.")
-elif promedio > 9.5:
-    print(f"Lo sentimos, {nombre}. Tu promedio de {promedio:.2f} excede el máximo permitido de 9.5.")
 else:
-    print(f"¡Felicidades, {nombre}! Has sido aceptada. Cumples con la edad y tu promedio de {promedio:.2f} está dentro del rango permitido.")
+    edad=int(input("Ingresa tu edad : "))#Input por ingreso de valores enteros 
+    if edad < 22:
+        print(f"Lo sentimos, {nombre}. No cumples con la edad requerida (mayores de 22 años).")
+    else:
+        #Solicitar las calificaciones
+        print("Ingresa tus tres calificaciones separadas por un espacio : ")
+        cal1,cal2,cal3 = input().split()# .split separa por un espacio lo solicita por espacios si 
+
+        #Asignar para determinar el promedio
+        cal1,cal2,cal3 = int(cal1),int(cal2),int(cal3) # Convertir a entero los numeros ingresados 
+        promedio = (cal1 + cal2 + cal3) / 3
+        if promedio < 8:
+            print(f"Lo sentimos, {nombre}. Tu promedio de {promedio:.2f} no alcanza el mínimo requerido de 8.")
+        else: 
+            print(f"¡Felicidades, {nombre}! Has sido aceptada. Cumples con la edad y tu promedio de {promedio:.2f} está dentro del rango permitido.")
 print("Fin del programa.")
 

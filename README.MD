@@ -69,3 +69,10 @@ selena.ruizd@gmail.com
 - p049-sumar-consecutivos 
 - p050-conteo-numeros
 - p051-adivina-numero
+## Actividad 8
+- p052-tabla-conversion
+- p053-conjetura-collatz
+- p054-tabla-multiplicar-while-v1
+- p055-tabla-multiplicar-while-v2
+- p056-contador-vocales
+- p057-interes-simple

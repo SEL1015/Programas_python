@@ -76,3 +76,12 @@ selena.ruizd@gmail.com
 - p055-tabla-multiplicar-while-v2
 - p056-contador-vocales
 - p057-interes-simple
+## Tarea 3
+- p058-impares-ascendente
+- p059-pares-descendente
+- P060-promedio-suma
+- P061-suma-200
+- p062-conversion-temperatura
+- p063-numero-mayor
+- p064-verificar-palindromo
+- p065-Sistema-papeleria 

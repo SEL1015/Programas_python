@@ -88,3 +88,13 @@ selena.ruizd@gmail.com
 - p065-Sistema-papeleria 
 ## Examen primer parcial 
 - p066-prime-parcial
+## Actividad 10
+- p067-conteo-acendente-for
+- p068-conteo-acendente-forV2
+- p069-conteo-descendente
+- p070-conteo-descendentev2
+- p071-conteo-arriba-abajo
+- p072-suma-pares-impares
+- p073-suma-multiplos
+- p074-suma-multiplos
+- p075-cifrado-cesar

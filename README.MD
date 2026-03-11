@@ -105,3 +105,9 @@ selena.ruizd@gmail.com
 - p079-factorial-numeros
 - P080-combina-colores
 - p081-suma-potencias
+## Tarea 4 
+- p082-compra-rendimiento-inversion
+- P083-plan-ahorro-depositos-mensuales
+- p084-cuadro-hueco-caracter
+- p085-rombo-caracter
+- p086-triangulo-invertido-numeros

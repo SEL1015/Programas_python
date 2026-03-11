@@ -98,3 +98,10 @@ selena.ruizd@gmail.com
 - p073-suma-multiplos
 - p074-suma-multiplos
 - p075-cifrado-cesar
+## Actividad 11
+- p076-tablas -todas
+- p077-triangulo-caracter
+- p078-piramide-caracter
+- p079-factorial-numeros
+- P080-combina-colores
+- p081-suma-potencias

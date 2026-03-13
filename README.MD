@@ -111,3 +111,10 @@ selena.ruizd@gmail.com
 - p084-cuadro-hueco-caracter
 - p085-rombo-caracter
 - p086-triangulo-invertido-numeros
+## Actividad 12 
+- p087-acceder-lista
+- p088-modificar-lista
+- p089-agregar-lista
+- p090-eliminar-lista
+- p091-iterar-lista
+- p092-lista-de-gastos

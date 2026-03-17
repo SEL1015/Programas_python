@@ -118,3 +118,10 @@ selena.ruizd@gmail.com
 - p090-eliminar-lista
 - p091-iterar-lista
 - p092-lista-de-gastos
+## Actividad 13 
+- p093-procesar-calificaciones
+- p094-consolidar-ventas
+- p095-precio-acciones
+- p096-registro-estudiantes
+- p097-procesar-datos-sensores
+- p098-producto-punto

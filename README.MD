@@ -125,3 +125,10 @@ selena.ruizd@gmail.com
 - p096-registro-estudiantes
 - p097-procesar-datos-sensores
 - p098-producto-punto
+## Tarea 5 
+- p099-procesar-notas
+- p100-listas-multiplica
+- p101-mes-día-nombre
+- p102-listas-aleatorios-suma
+- p103-ciudades
+- p104-lista-impares

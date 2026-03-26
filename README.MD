@@ -132,3 +132,10 @@ selena.ruizd@gmail.com
 - p102-listas-aleatorios-suma
 - p103-ciudades
 - p104-lista-impares
+## Actividad 14 
+- p105-datos-estudiante
+- p106-calificaciones-estudiante
+- p107-nombres-edades
+- p108-conversor-unidades
+- p109-conversion-divisas
+- p110-punto-de-venta

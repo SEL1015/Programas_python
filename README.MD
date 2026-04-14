@@ -139,3 +139,7 @@ selena.ruizd@gmail.com
 - p108-conversor-unidades
 - p109-conversion-divisas
 - p110-punto-de-venta
+- p111-lote-autos
+- p112-registro-estudiantes
+- p113-reporte de ventas
+- p114-area-figura

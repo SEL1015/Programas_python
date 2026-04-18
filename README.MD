@@ -143,3 +143,13 @@ selena.ruizd@gmail.com
 - p112-registro-estudiantes
 - p113-reporte de ventas
 - p114-area-figura
+## Tarea #6
+- p115-acceder-diccionario
+- p116-modificar-diccionario
+- p117-agregar-diccionario
+- p118-eliminar-diccionario
+- p119-procesar-diccionario
+- p120-contar-caracteres
+## Actividad 15
+- p121-minicipios
+- p122-operaciones-conjuntos

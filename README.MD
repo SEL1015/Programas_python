@@ -153,3 +153,6 @@ selena.ruizd@gmail.com
 ## Actividad 15
 - p121-minicipios
 - p122-operaciones-conjuntos
+# Tarea 7
+- p123-conjunto-personas
+- p124-conjunto-numeros

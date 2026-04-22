@@ -156,3 +156,4 @@ selena.ruizd@gmail.com
 # Tarea 7
 - p123-conjunto-personas
 - p124-conjunto-numeros
+# Examen parcial 2

@@ -157,3 +157,21 @@ selena.ruizd@gmail.com
 - p123-conjunto-personas
 - p124-conjunto-numeros
 # Examen parcial 2
+- p125-segundo-sxamen-parcial
+# Actividad 16 
+- p126-funcion-simple
+- p127-funcion-parametro
+- p128-funcion-parametros
+- p129-func-param-nombre
+- p130-func-param-defecto
+- p131-func-mas-param
+- p132-funcion-retorno
+- p133-tabla-multiplicar
+- p134-cuadro-caracter
+- p135-numero-mayor
+- p136-estacion-año
+- p137-temperatura
+- p138-suma-digito- 
+- p139-factorial
+- p140-promedio-letra
+- p141-suma-rango.py

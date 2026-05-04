@@ -174,4 +174,21 @@ selena.ruizd@gmail.com
 - p138-suma-digito- 
 - p139-factorial
 - p140-promedio-letra
-- p141-suma-rango.py
+- p141-suma-rango
+## Actividad 18 
+- p142-suma-lista
+- p143-lista-pares
+- p144-mayor-menor
+- p145-mayores-promedio
+- p146-pares-impares
+- p147-aleatorios
+- p148-nombres
+## Tarea 8
+- p149–numero-menor
+- p150-dia-semana
+- p151-medidas-longitud
+- p152-suma-pares-impares
+- p153-suma-digitos
+- p154-calcula-factoriales
+- p155-estadisticas-basicas
+

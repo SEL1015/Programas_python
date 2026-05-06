@@ -191,4 +191,8 @@ selena.ruizd@gmail.com
 - p153-suma-digitos
 - p154-calcula-factoriales
 - p155-estadisticas-basicas
-
+## Actividad 19 
+- p156-empleado
+- p157-empleado2
+- p158-circulo
+- p159-rectangulo

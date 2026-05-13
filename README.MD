@@ -196,3 +196,5 @@ selena.ruizd@gmail.com
 - p157-empleado2
 - p158-circulo
 - p159-rectangulo
+## Actividad 20
+- p160-ventas
